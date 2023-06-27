@@ -1,1 +1,1 @@
-# CoursareaGit
+# CoursareaGit learning course
